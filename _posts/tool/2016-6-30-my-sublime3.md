@@ -158,7 +158,7 @@ sublime的插件工具也是一个插件，这似乎是个悖论，需要安装�
 提供对json文件的美化和格式化功能。
 
 ### jQuery
-支持jquery的只能语法提示，很赞。
+支持jquery的智能语法提示，很赞。
 
 ### Emmet
 Emmet的前身是大名鼎鼎的Zen coding，如果你从事Web前端开发的话，对该插件一定不会陌生。它使用仿CSS选择器的语法来生成代码，大大提高了HTML/CSS代码编写的速度。对于html可以使用tab键，对于其他比如jsx可以使用ctrl+e
